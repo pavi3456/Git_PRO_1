@@ -1,0 +1,25 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Chrome_browser_First_page",
+    "children" : [ {
+      "name" : "Job requirement or Job search page ",
+      "children" : [ {
+        "name" : "Nakuri Website Page",
+        "uid" : "9e577786bb50c79f",
+        "parentUid" : "d0abdb5217329511d2e0ace7d33216c6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1559717248519,
+          "stop" : 1559717253371,
+          "duration" : 4852
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d0abdb5217329511d2e0ace7d33216c6"
+    } ],
+    "uid" : "fb1f1b131e0020a9cc7ad4bbbafa294f"
+  } ]
+}

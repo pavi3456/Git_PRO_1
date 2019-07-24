@@ -1,0 +1,13 @@
+[ {
+  "values" : [ "Rev0" ],
+  "name" : "Revision"
+}, {
+  "values" : [ "NIG" ],
+  "name" : "Product_Name"
+}, {
+  "values" : [ "05-06-2019" ],
+  "name" : "Date_Of_Execution"
+}, {
+  "values" : [ "1.0.0.0" ],
+  "name" : "Release_version"
+} ]

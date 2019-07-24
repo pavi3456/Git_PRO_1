@@ -1,0 +1,18 @@
+<environment>
+    <parameter>
+        <key>Product_Name</key>
+        <value>NIG</value>
+    </parameter>
+    <parameter>
+        <key>Release_version</key>
+        <value>1.0.0.0</value>
+    </parameter>
+    <parameter>
+        <key>Revision</key>
+        <value>Rev0</value>
+    </parameter>
+        <parameter>
+        <key>Date_Of_Execution</key>
+        <value>05-06-2019</value>
+    </parameter>
+</environment>

@@ -1,0 +1,24 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test passed",
+    "children" : [ {
+      "children" : [ {
+        "name" : "Nakuri Website Page",
+        "uid" : "9e577786bb50c79f",
+        "parentUid" : "9c80a0c1559ab612131af073d4d469b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1559717248519,
+          "stop" : 1559717253371,
+          "duration" : 4852
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9c80a0c1559ab612131af073d4d469b3"
+    } ],
+    "uid" : "bf711d51452b6be752b9682737c0edfd"
+  } ]
+}
