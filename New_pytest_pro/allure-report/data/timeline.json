@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-VJDHCDJN",
+    "children" : [ {
+      "name" : "15288-MainThread",
+      "children" : [ {
+        "name" : "Nakuri Website Page",
+        "uid" : "9e577786bb50c79f",
+        "parentUid" : "3de38579e09f55d41976c212649055eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1559717248519,
+          "stop" : 1559717253371,
+          "duration" : 4852
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3de38579e09f55d41976c212649055eb"
+    } ],
+    "uid" : "1b7d5882fff3d33a69fa196bad7b3c04"
+  } ]
+}

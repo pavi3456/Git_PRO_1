@@ -1,0 +1,2 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_web_page_cases.TestWebClass#test_nakuri_first_page_001","4852","To verify nakuri website in chrome browser"

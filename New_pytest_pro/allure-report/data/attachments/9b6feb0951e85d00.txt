@@ -1,0 +1,5 @@
+DEBUG    Test_case:test_web_page_cases.py:15 open_browser Fucn: Open chrome browser
+DEBUG    Test_case:test_web_page_cases.py:39 Started Comparision
+DEBUG    Test_case:test_web_page_cases.py:40 ===================
+DEBUG    Test_case:test_web_page_cases.py:44 My custom msg: Expected Jobs - Recruitment - Job Search - Employment - Job Vacancies - Naukri.com actual status Jobs - Recruitment - Job Search - Employment - Job Vacancies - Naukri.com
+DEBUG    Test_case:test_web_page_cases.py:21 close_browser Fucn: close the chrome browser
